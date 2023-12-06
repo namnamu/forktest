@@ -1,0 +1,6 @@
+__pycache__/
+# !로 시작하면 무시되지 않는 패턴이다.
+#*.py[cod]
+#*$py.class 
+.flaskenv
+.env
